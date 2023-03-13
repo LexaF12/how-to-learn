@@ -1,0 +1,6 @@
+.two-columns__main-text {
+  flex-direction: column;
+  display: flex;
+  flex-basis: 80%;
+  margin: 0;
+}
